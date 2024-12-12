@@ -17,8 +17,7 @@ Required Libraries: OpenCV, Matplotlib, NumPy
 Installation
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/your-username/age-gender-classification.git
+
 Navigate to the project folder:
 bash
 Copy code
